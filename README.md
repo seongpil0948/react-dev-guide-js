@@ -7,7 +7,7 @@
 - [ ] playwright 적용
 - [ ] i18n 적용
 - [ ] tailwind 적용 여부 결정
-- [ ] Scss 적용방안 결정
+- [x] Scss 적용
 - [ ] 필요하지 않은 패키지 제거
   - [ ] 차트 관련 라이브러리 D3로 대체
 - [ ] [vue-dev-guide](https://github.com/socketbear/vue-dev-guide) 팔로우
